@@ -1,2 +1,3 @@
-# desafio-dio-modulo1
-Criação de repositório Git/Github
+# Desafio DIO Módulo I
+## Criação de repositório Git/Github
+### Anotações sobre o que foi estudado no Módulo I
