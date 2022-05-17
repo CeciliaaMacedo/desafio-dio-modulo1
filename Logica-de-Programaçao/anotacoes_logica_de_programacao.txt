@@ -1,0 +1,47 @@
+
+Logica de programação
+O que é logica? 
+R- organização e planejamento das instruções assertivas em um algorítimo
+para que se possa implantar um programa. 
+
+Algoritimo - instruções para realizar uma tarefa.
+Instruções baseadas em ações.
+
+Seres humanos preveem comportamentos e as máquinas não, por isso
+utilizamos a logica de programação. 
+
+Técnicas de lógica de programação.
+
+Técnica Linear - Modelo tradicional, não tem vínculo, estrutura hierárquica 
+é utilizada na programação de computadores. (Modelo de desenvolvimento e resolução de problemas)
+execução sequenciada de uma série de operações;
+recursos limitados;
+
+Técnica estruturada - organização, disposição e ordem dos elementos essenciais
+que compõem um corpo.
+
+Técnica modular - partes independentes controladas por um conjunto de regras.
+dados de entrada > processo de transformação > dados de saída;
+
+FUNDAMENTOS DE ALGORÍTMOS
+Tipologia e variáveis -
+
+Tipo numéricos - inteiros e reais 
+Tipo Caracteres - simbolos @,&,*
+Tipo lógico - Booleano - Verdadeiro e Falso
+
+Variável - tipo de estrutura mutável e inconstante. 
+Assume qualquer valor de um determinado conjunto de valores. 
+Identifica o dado e o tipo do dado;
+
+Papéis de uma variável - 
+Ação - modifica o estado 
+Controle - vigiada , controle.
+
+Constante - inalterável.
+
+Orientação a objeto
+O que eu tenho - atributo
+O que sou capaz de fazer - método
+Como eu faço - estado
+

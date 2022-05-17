@@ -1,0 +1,27 @@
+
+GIT GITHUB
+
+Comandos que se usa no git
+Mudar de pasta - 
+Listar as pastas - ls (no linux) dir (windows) - vai listar os diretórios 
+
+Criar pastas/arquivos - mkdir e nome da pasta que vai criar 
+
+Criar arquivo - entra na pasta digita o comando echo nome do arquivo > nome do arquivo e sua extensão 
+
+Deletar pastas/arquivos - del nome do arquivo (deleta o arquivo); rmdir - remove o diretório 
+no linux rm -rf nome da pasta 
+
+Comando que permite navegar nas pastas - cd/nome da pasta (igual para os dois)
+
+Retroceder - cd..
+
+Para limpar a tela - cls (windows) clear (linux) ou Ctrl + L 
+
+TAB - auto-completa o nome 
+
+git init - iniciar 
+git add - adiconar 
+git commit - salvar o código
+
+
